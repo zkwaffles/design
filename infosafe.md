@@ -1,5 +1,6 @@
 ## TODO
 - figma up some mocks
+- note: gravity.eth updates as a template
 - nail down messaging
 - future of historical record: made possible by decentralization
 - what would it take to implement? 
